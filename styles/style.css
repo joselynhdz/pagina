@@ -1,0 +1,42 @@
+body {
+    
+    background-image: url(../images/mosaico.jpg);
+  }
+  .photos li {
+    width: 206px;
+    display: inline-block;
+    border: 15px solid #FFA07A;
+    margin: 10px;
+    box-sizing: border-box;
+    height: 120px;
+    overflow: hidden;
+    transition: all .3s ease-in;
+  }
+
+  .photos li:hover{
+      
+      width: 250px;
+      height: 165px;
+  }
+
+  .photos li img{
+    
+    width: 100%;
+    
+  }
+  
+ 
+  .photos{ 
+    margin: 70px auto;
+    width: 500px;
+  }
+  .photos{
+    width: 550px;
+    list-style-type: none;
+  }
+  .click {
+     
+      
+  }
+
+  

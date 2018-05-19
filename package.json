@@ -1,0 +1,19 @@
+{
+  "name": "hourly-rate",
+  "version": "1.0.0",
+  "description": "Para un desarrollador es muy importante saber como determinar el costo de su trabajo para estimar presupuestos acordes al grado de esfuerzo, calidad y eficiencia en tiempo del proyecto. Es por esto que tu trabajo es ayudar a los desarrolladores futuros a tener una mejor idea de este estimado a través del desarrollo de una webapp que haga la evaluación de manera automatizada basado en el cálculo de las variables y características descritas en los artículos a continuación:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodeRoomMX/hourly-rate.git"
+  },
+  "author": "vampaynani",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CodeRoomMX/hourly-rate/issues"
+  },
+  "homepage": "https://github.com/CodeRoomMX/hourly-rate#readme"
+}
